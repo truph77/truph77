@@ -1,7 +1,7 @@
 <!-- Profile README for truph77 - Colorful, Professional & Interactive UI with MOI the Cat -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F48C06&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+truph77+%F0%9F%91%8B;+W Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=F48C06&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+truph77+%F0%9F%91%8B;+W+Welcome+to+my+GitHub+Universe+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
 <p align="center">
